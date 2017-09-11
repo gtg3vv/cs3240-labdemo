@@ -1,0 +1,16 @@
+#Gabriel  Groover (gtg3vv)
+
+*   35b15bb (HEAD -> master, origin/master, origin/HEAD) Merge branch 'new-feature1'
+|\
+| * 65997d0 adding test function file
+* | 62c32fb adding test2 file to master
+|/
+*   472cca7 resolve conflict
+|\
+| * 216b233 Modification to create merge conflict
+* | 24d8617 Modified local to create conflict
+|/
+* 55cee31 Added helper.py and imported helper
+* 098cd95 Adding print helper function to hello.py
+* cfca999 Initial commit
+* 4aae7f7 Initial commit
